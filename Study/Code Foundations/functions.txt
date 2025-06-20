@@ -1,0 +1,10 @@
+
+    A
+    Preview: Docs The function data type does not immediately run upon the execution of a file. It must be called on to perform a specific task.
+    function
+    is a sequence of instructions that performs a specific task, packaged as a unit.
+    When we define a function, we specify the instructions, inputs, and name of the function.
+    When we call a function, all of its instructions are executed.
+    Functions can be executed many times, making its instructions reusable.
+    Functions can have parameters, which accept input values, making its instructions flexible.
+    Functions organize a program into distinct units, making interchanging and editing them easier. This makes your entire program organized and modular.

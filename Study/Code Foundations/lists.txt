@@ -1,0 +1,8 @@
+
+    A list is an ordered sequence of information
+    You can access an item in a list by using its
+    Preview: Docs Loading link description
+    index
+    position
+    You can append items to the end of the list or insert them in the middle
+    You can also remove an item from the end or middle of a list

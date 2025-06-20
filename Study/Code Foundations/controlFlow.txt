@@ -1,0 +1,9 @@
+
+    Control flow is the order in which instructions are executed.
+    Control structures alter
+    Preview: Docs Loading link description
+    control flow
+    in a program. You learned three structures, each suited for a different scenario:
+        Conditional: “if some condition is met, then do X. Otherwise, do Y”.
+        Loop: “do something Z number of times” or “do something repeatedly until some condition is met”.
+        Exception: “do steps A, B, C. If an error occurs, stop, and do steps J, K, L”.

@@ -1,0 +1,9 @@
+
+    Operators are symbols that represent different ways of modifying, comparing, and evaluating information.
+    Arithmetic operators are used to make calculations.
+    Comparison operators determine the relationship between two values, which results in a
+    Preview: Docs Represents the logical values of true and false.
+    boolean
+    .
+    Logical operators determine the logical state of multiple boolean values or expressions, which results in another boolean.
+
